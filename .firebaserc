@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "jobportal-aae9e",
+    "jobportal": "jobportal-aae9e"
+  },
+  "targets": {},
+  "etags": {}
+}
